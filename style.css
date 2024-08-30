@@ -1,0 +1,40 @@
+corpo {
+    cor: branco;
+    fundo: preto;
+    Margem: 0px;
+    família de fontes: "Chakra Petch", sem serifa;
+    margem inferior: 100px;
+}
+
+cabeçalho {
+@@ -32,10 +33,6 @@ p {
+    tamanho da fonte: 20px;
+}
+
+img {
+    Altura: 200px;
+}
+
+. categoria-videos {
+    Display: Flex;
+    overflow-x: automático;
+@@ -45,4 +42,19 @@ img {
+. categoria {
+    preenchimento à esquerda: 20px;
+    preenchimento à direita: 20px;
+    margem superior: 50px;
+}
+
+. categoria-videos img {
+    opacidade: 0,5;
+    Altura: 200px;
+}
+
+. categoria-videos img:hover {
+    opacidade: 1,0;
+    borda: 3px verde sólido;
+}
+
+. categoria h2 {
+    Cor: RGB (42, 122, 228);
+}
